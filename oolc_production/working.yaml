@@ -1,0 +1,12 @@
+project_id: glassgarden_oolc_decorative_item_christmas_bauble
+project_name: "Christmas Bauble"
+project_repo: github.com/oomlout/glassgarden_oolc_decorative_item_christmas_bauble
+production_format:
+  a4_1:
+    file_location: source_files/glassgarden_oolc_decorative_item_christmas_bauble_a4_1.cdr
+  a4_2:
+    file_location: source_files/glassgarden_oolc_decorative_item_christmas_bauble_a4_2.cdr
+  tileable:
+    file_location: source_files/glassgarden_oolc_decorative_item_christmas_bauble_tileable.cdr
+    width: 420 mm
+    height: 138 mm
