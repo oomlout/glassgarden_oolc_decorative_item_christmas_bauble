@@ -14,3 +14,15 @@ production_format:
     file_location: source_files/glassgarden_oolc_decorative_item_christmas_bauble_tileable.cdr
     width: 420 mm
     height: 138 mm
+  tileable_piece_1:
+    file_location: source_files/glassgarden_oolc_decorative_item_christmas_bauble_piece_1_tileable.cdr
+    width: 150 mm
+    height: 150 mm
+  tileable_piece_2:
+    file_location: source_files/glassgarden_oolc_decorative_item_christmas_bauble_piece_2_tileable.cdr
+    width: 150 mm
+    height: 150 mm
+  tileable_piece_3: 
+    file_location: source_files/glassgarden_oolc_decorative_item_christmas_bauble_piece_3_tileable.cdr
+    width: 150 mm
+    height: 150 mm
